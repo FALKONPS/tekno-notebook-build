@@ -2,7 +2,20 @@
 # Tekno NoteBook
 
 <img width="1707" height="1141" alt="Tekno NoteBook" src="https://github.com/user-attachments/assets/9e561b3b-ece8-4bed-baee-398928a68030" />
+
 Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech recognition, and AI assistant features.
+
+---
+
+<p align="center">
+  <a href="https://youtu.be/JPFz9obzlmQ" title="Introduction Tekno Notebook">
+    <img src="https://img.youtube.com/vi/JPFz9obzlmQ/0.jpg" alt="Introduction Tekno Notebook">
+  </a>
+  <br>
+  <b>Watch on YouTube</b>
+</p>
+
+---
 
 ## Features
 
